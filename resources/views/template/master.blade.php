@@ -28,20 +28,14 @@
     <!-- Template Main CSS File -->
     <link href="{{ asset('Lonely/assets/css/style.css') }}" rel="stylesheet">
 
-    <!-- =======================================================
-  * Template Name: Lonely - v2.3.1
-  * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
 
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex flex-column align-items-center justify-content-center">
-        <h1>Hi, I'm Alice!</h1>
-        <h2>I am a graphic designer</h2>
+        <h1>INI DIVISI</h1>
+        <h2>JARGON ATAU VISI OR MISI</h2>
         <a href="#about" class="btn-get-started scrollto"><i class="icofont-simple-down"></i></a>
     </section><!-- End Hero -->
 
